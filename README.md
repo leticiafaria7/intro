@@ -10,10 +10,10 @@
 - Sistema de controle financeiro
 - Sistema para contabilizar as horas de trabalho
 
-## 📈 Stats
+## Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=leticiafaria7&show_icons=true&theme=omni)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiafaria7&theme=omni)
 
-## 🔗 Links
+## Links
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leticiaemanuellafaria/)
