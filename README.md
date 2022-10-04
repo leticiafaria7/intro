@@ -1,5 +1,5 @@
 ## Welcome! :sparkles:
-🎓 Meu nome é Leticia, sou engenheira química por formação e analista de dados por profissão, atuando na área de People Analytics.
+🎓 Meu nome é Leticia, sou engenheira química por formação, atuando como analista de dados na área de People Analytics.
 
 📋 Neste perfil, você encontra as atividades dos cursos que eu tenho feito, e também os projetos que eu desenvolvo para aplicar meus conhecimentos.
 
