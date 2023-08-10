@@ -2,7 +2,7 @@
 🎓 Sou engenheira química por formação e atuo como cientista de dados em uma consultoria de transformação digital
 
 📋 Aqui estão documentados os códigos:
- - dos cursos que eu estou fazendo
+ - dos cursos que eu estou fazendo, para consultar exemplos de aplicações de funções
  - dos projetos que eu desenvolvo para aplicar meus conhecimentos
  
  ---
