@@ -13,5 +13,5 @@
 
 <!-- ### ↗️ Links -->
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leticiaemanuellafaria/) 
-[![GitHub EloGroup](https://img.shields.io/badge/github_elogroup-4d4d4d?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.github.com/leticia-elogroup)
-[![GitHub Numera](https://img.shields.io/badge/github_numera-4d4d4d?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.github.com/leticiafaria26)
+<!-- [![GitHub EloGroup](https://img.shields.io/badge/github_elogroup-4d4d4d?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.github.com/leticia-elogroup)
+[![GitHub Numera](https://img.shields.io/badge/github_numera-4d4d4d?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.github.com/leticiafaria26) -->
