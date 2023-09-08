@@ -1,8 +1,12 @@
-### Welcome! ✨
+### Welcome! 😊
 🎓 Sou engenheira química por formação e atuo como cientista de dados em uma consultoria de transformação digital
 
+✨ Meus interesses na área de tecnologia envolvem:
+ - tratamento, análise exploratória e visualização de dados
+ - desenvolvimento de aplicativos para uso pessoal (ex: controle financeiro, planejamento de dieta)
+
 📋 Aqui estão documentados os códigos:
- - dos cursos que eu estou fazendo, para consultar exemplos de aplicações de funções
+ - dos cursos que eu estou fazendo, para consultar exemplos de aplicações de funções em Python, PySpark, R e SQL
  - dos projetos que eu desenvolvo para aplicar meus conhecimentos
  
  ---
