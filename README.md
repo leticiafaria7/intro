@@ -3,7 +3,7 @@
 
 ✨ Meus interesses na área de tecnologia envolvem:
  - tratamento, análise exploratória e visualização de dados
- - desenvolvimento de aplicativos para uso pessoal (ex: controle financeiro, planejamento de dieta)
+ - desenvolvimento de aplicativos para uso pessoal (ex: controle financeiro, monitoramento de preços, planejamento de dieta)
 
 📋 Aqui estão documentados os códigos:
  - dos cursos que eu estou fazendo, para consultar exemplos de aplicações de funções em Python, PySpark, R e SQL
